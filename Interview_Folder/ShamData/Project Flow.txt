@@ -1,0 +1,23 @@
+1) starting la name sangshil
+2) then purpose sangaycha project cha
+3) then filter chain ch sangaych...js any http req is intercepted by filter chain
+4) possible asel tr security ch sangaych ...js authentcation manager,provider manager, authenticate provider..... kiti deep jaych te tujhyavr depend krel
+5) then tyala dispatcher servlet(DS) ch sangshil...front controller h...req binding krto with controller
+6) thn hndlermapping --- dispatcher servlet key pathvto as uri n hndler mapping return krto fully qualifies class name
+7) thn DS controller shodhto tya method sathi
+8) tyala controller ch format n te sangaych...like rest controller annotation ch combo
+@requestmapping ch purpose.... n exaample detanna konti pn 1 method ch example dyaych possibly post method ch ch de karn tyat dto vaigere pn cover hot
+9) thrn method-- @postmapping ka vaprl(usecase) ... then i/p dto mdhe ka ghetle---karn entity exposed nahi hou det
+n 1 way tyat vaalidation pn add kru shkto ... tya sathi ch annotation @valid and 1 2 example pn de js notblank , notnull , future
+10)@requestbody /@requestparam /@ajun 1 kahi tri aaahe method binding sathi-- ya annotation che use ... like marshelling converting json to java 
+11)then service layer mdhl structure @service buisness logic contain krt
+12) @transactional-- automatic transction krto with database with reducing boiler code
+13) then @autowired ch sangaych kay krt te.. tyachya help ne di krto
+controller mdhe service then service mdhe repo
+14) pratyek repo JPA Repo la extend krte...uses of JPA Repo js finder method + crud method + @query + automatic dao implementation class
+15) global exception handler --- tyache annotation n 1 method explain kraych
+   js ex. outOfStockException sathi custom class bnvla jo runtime exc la extend krto... method level annotation @exceptionHandler sangshil
+
+16) if method successfully executed then we send response with response entity...why response entity and converted by @responsebody to json obj with help of jackson jar
+
+ajun formal lagl tr call kr

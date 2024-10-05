@@ -1,0 +1,1227 @@
+ Securely(omkar)
+
+Pen-Paper Test (30 MCQ - 1 hr)
+Basic Aptitude , SQL queries , Coding Snipets
+mostly coding snipets were based on post and pre increment operator
+
+Techinal Interview (Time Duration : 1:30 - 1:45 hours)
+
+Introduce yourself
+DSA-1 => 
+
+DSA-2 => return true or false if its a sandwhich string (sandwich string is string which has first n and last n same characters and in between any characters    "aabbaa" => true  "aabba" => false  "aabcdeaa" => true
+DSA-3 => There is a plane there are five column for M F H F H respectively and the seats are filled row wise find then category in which that seat number is    ex:  16 => M   7 => F 
+9 => H
+after giving solution he asked to optimize the solutions which were not optimized
+
+Query-1 => give total students under the teacher whose id is given and he told me to optimize the query which I gave
+Query-2 => find students which are not assigned to any class
+
+
+difference between primary and unique key ?
+can multiple keys combined to form a unique key ? why ? 
+difference between overloading and overriding in java ?
+linux commands - list all directory , current directory , out of 6 i was able to answer only 2
+information about nosql databases and why to use that ? 
+do you know redis database ? explain that ?
+do you know about aws ? // i told him i know only basic so he didn't asked any quetion on aws
+difficulties you faced during your project and how you resolve them ?
+if your query in project is taking lots of time how will you optimized it ?
+horizontal scaling and vertical scaling ? 
+
+
+HR Interview (Time Duration: 7-10 mins)
+Your role in project ?
+Your family background ?
+Your hobbies ? // I told geopolitics so he aksed about your view on israel-palistine conflict and what should we do to solve that ?
+Why you switch to IT ?
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+CDAC PUNE (Technical Interview)(pratik)
+     Introduction
+- Project 
+- Your role in project? 
+- Why end user should choose your project? 
+- What's reason behind that you selected that project?
+- Future scope? 
+- Which database used in your project? why? 
+- What is redundancy? 
+- How you managed that redundancy in your database? 
+- Difference between MySQL and MongoDB
+- Explain Rest Api 
+- Which Rest Api's used in your project ? 
+- Can I change the sequence of public static void main? 
+- Difference between synchronous and Asynchronous process? 
+- what is meant by caching?
+- Explain JWT in detail
+- Which front end technology used in your project? 
+- Explain Hooks in react
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+Pattern Technologies 
+
+Coding Round
+
+• 3 Database Questions
+
+Database was fixed for all 3 questions 
+MySQL, MS SQL, SQLite
+
+• MCQs on AWS and Linux 
+
+• 2 DSA Coding Questions
+
+1) Considering a palindromic tree, initially ans =0. For each node, if it's subtree is palindromic, add i to ans. Find ans
+Given: subtree of node i are the nodes that are present below node i.
+2) Given x dollars and no. of multiple items, on purchasing multiple items of same type, the cost taken will be of only one item, find maximum multiple items of same type in the given amount. (I don't remember the exact question but it was something like this).
+
+Technical Interview :
+1) Introduction 
+2) Project
+3) Your Role in the Project
+4) Request Handling in Frontend and Backend 
+5) Tables Based on Project and association among them
+4) Relationship among the tables
+5) Asked to write 3-4 queries giving different conditions 
+6) Asked to write Join queries
+7) Conditions based on Normalisation (asked to normalise a table)
+8) Scenario : To make a Live Messenger App, what kind of functionalities will you add
+9) Scenario: In an app like Instagram , to register an user which data structure will you use and why
+10) Find Factorial, and if the result has trailing zeros, remove them, print count of zeros removed and the final remaining digits.
+11) Explain Polymorphism and give example, after giving example, asked me to explain by writing code for it (super class, sub class, methods, etc)
+
+
+HR Interview :
+1) Where are you from?
+2) Thoughts about Pune
+3) Family Background
+
+Tip : Always prepare according to the JD and remain truthful regarding your role in the final project.
+
+Hope this helps and 
+All the very best guys🌻✨
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+Onixnet Company(Shubham)
+
+Technical Round (40 min) -
+
+1. Introduction.
+2. Asked for my favourite language (java).
+3. Some Light questions regarding main method, static, variables.
+4. Asked types of sorting and their time complexities, and which  one is fastest, and why.
+5. Question on array, given a array of binary numbers [0,1,0,0,1,1,1,0] how can you sort it in most optimized way.
+6. Whats ArrayList and LinkedList , difference between them, why to use which, and write pseudo code for arraylist.
+7. What is Map? why is it so popular.
+8. How Hashmap works, explain hashing algorithm and hashtable, and more questions regarding insertion and ordering.
+9. What did you contribute in your project and what technologies used.
+10. Explain the flow of any one api (i explained login) and how we managed session of user.
+11. Draw er relationship and association between them and some cross questions.
+12. Gave a scenario and asked me to write or update backend api, some questions on jpa queries.
+13. Last logical questions, Given a string of ">><<>>><" people moving to right and some to left in a corridor whats total number of passing.
+
+HR Round (15min) -
+
+1. Again Introduction, but add some of your personality and some interesting fact about yourself.
+2. Which was my favourite subject, which was toughest during cdac.
+3. Why do cdac after engineering?? 😑
+4. How was cdac different from engineering since they had some similar subjects in engineering too.
+5. How much time i spend daily on coding and whats the difficulty level i can do in leetcode.
+6. How did you managed time for project and what difficulties were faced during that time.
+7. Whats my Hobbies, my role model.
+8. If given to learn new language whats maximum time you will take?
+9. Where you see yourself in 5 years.
+10. Ready to relocate? > 🙏
+
+Tip : Be confident in your answer and express your thoughts with them , and tell them if you don't know any answer to that, also try to direct the interview towards the topics you feel comfortable.
+
+Thank You all ✨ and Good Luck to Everyone 🍀
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+TATA TECHNOLOGIES LTD.
+Introduction 
+Interview was based on college project not CDAC project
+Git
+SDLC
+TESTING 
+Some situational questions 
+Program to validate password
+......
+Then for HR
+INTRODUCTION 
+relocation 
+Shift work
+Why CDAC
+family background 
+Some questions to check my communication skills
+
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+
+
+T systems 
+1.Introduction 
+2.College project was in python :
+ the flow of the project 
+Training of model in python and RNN.
+3. Procedure to print even odd
+4. SQL query to find emp with 3rd highest salary 
+5. Why spring boot for backend?
+6. Some basic aptitude questions (speed-dist-time / ratio)
+7. Exception handling overview
+8. Types of joins in mysql difference between all
+9. Queries on joins 
+10. Difference between Procedure and function 
+11. Difference between group by and order by..query for the same and some cross questions were asked
+All the basic differences between sql concepts were expected to be known.
+12. Git commands
+13. Annotations from the project and their uses
+14. Basics of DSA
+
+For Hr
+Introduction 
+Why should we hire you
+Where do you see yourself in 5 years
+What makes you different 
+If your manager is pestering you over something and not appreciating your efforts what will be your reaction to it?
+If your project is to go for production and you find that there is a gllitch in some functionality at the very last moment what will be your reaction?
+Why did you choose cdac?
+Few questions on hobbies
+Are you willing to change technology?
+Why did you specifically choose DAC?
+
+
+
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+
+For BAJAJ  Finserv and Avaloq
+
+1.Introduction 
+2.Write a procedure to find ratio of sides of cubes if the volume of both the cubes is given
+3.Aptitude questions 
+4.Difference between Procedure and Function 
+5.Multithreading overview
+6.How do we create threads and Difference between both the methods
+7. Write a procedure to find factorial of a number and also write the same in java
+8. The input constraints that you will add for the program 
+9. How will you validate the inputs for procedure
+10. Er diagram explanation with primary key and relations, and all the constraints for the table
+11. Annotations for the entity
+12. Write a rest api to get all destinations
+13. SPRING SECURITY and JWT TOKEN (very imp)
+14. Some code snippets were shown and asked to find o/p
+15. What is the difference between login and register api answer based on jwt token generation
+16. Basic Sql queries and different joins
+17. Flow of the project 
+18. Primary key, unique, foreign, candidate key difference 
+19. Details about application.properties
+20.  Jwt Authentication and the api used for the same
+
+Avaloq HR
+1. Introduction 
+2. Asked about family
+3. Why did you choose cdac
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+Hello everyone! Hope you all are doing well. I'm sharing my interview experience for the companies 
+The Digital Group - 1hr technical interview 
+Avaloq - 2 technical interviews each abt 50 mins.
+Giesecke and Devrient - 1hr technical interview 
+OOPS concepts in depth with examples of codes in C#.
+Difference between C# and Java.
+Access Specifies in C# and their applications.
+Database structure of my project. Asked to write the queries to establish relationships between the tables of my project.
+Queries for joins based on the tables of my project.
+Questions on runtime and compile time errors in C#.
+Explain sealed override virtual and abstract methods in C# using codes(they asked me to type and write the code).
+Questions on .net webapi and entity framework(complex questions I don't remember exactly).
+How you manage errors in .net web api project.
+Difference between REST and RESTfull
+Write 3 LINQ queries for different questions i.e to get the employees with maximum salaries etc. And then asked me to write SQL query for the same.
+Multi threading concepts in C#.
+async and await 
+Difference between readonly and const. Write a code for the same in C#.
+Write a code in C# to find the highest occuring character in the string.
+What is a var in C#
+What is private constructor and it's application in C#.
+Questions on React.js about my project.
+Write logic to navigate between the pages in React.js.
+Asked me to write store procedure given a question based on my project only. Also all cursor for the same.
+Asked questions abt the questions that i attempted wrong in the assessment test as they kept the report of my questions in front.
+Questions on merge sort and memory management cache garbage collection. 
+Also asked me to give real life examples for every programming concepts. And then create classes and write logic for the examples I had mentioned.
+And many other questions that I'm unable to remember. 
+Tips for cracking any interview:- just believe in yourself and your abilities. Be honest and confident. Focus on your own growth. Work on building a good logic for arrays and strings. Etc.
+No matter if your interview is online or offline they will check your understanding and ability to write the code and you have to be prepared for the worst.
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+TATA Technologies
+Technical 1: (1-hour duration)
+
+Introduce yourself.
+Explain inline functions and friend functions with examples.
+Explain static functions with examples.
+Explain virtual functions with examples.
+Explain the types of pointers in C++. Write the syntax for each.
+What is the Stream API?
+What are the different types of operations in Streams?
+Explain the methods of intermediate and terminal operations.
+What is a lambda expression?
+What is a Functional Interface?
+Create a new thread using a lambda expression and write the code.
+Why does a Functional Interface have only a single abstract method?
+Explain threads in Core Applications and threads in Microservices.
+What is final in Java, and what is sealed in .NET?
+Why did you choose to do your project in Java instead of .NET?
+Coding problems:
+i) Pattern using stars (Solid Diamond).
+ii) Given the input string "I am an Indian", the output {[I, I, I], 3, [a, a, a], 3, [m], 1,[n, n, n],3, [d],1}.
+
+Technical 2: (30-minute duration)
+
+Explain your PG-DAC project.
+There was a whole 3-4 minutes of discussion about my CCEE marks in all subjects.
+What was your role in your project? (I told them I worked on both the backend and frontend, but they asked me questions specifically about ReactJS.)
+What are hooks?
+Explain each hook and where you used it in your project.
+Why did you fetch your products in the useEffect hook? (My Git repository was open and my project is an Ecommerce application).
+Explain CORS settings and Axios ,fetch.
+What are the different types of APIs you used in your project?
+Write a URL for deleting a product that you used in your project.
+What are the key features of your project?
+If you want to convert your project to .NET, how would you do it?
+What are the different types of components in your project?
+Explain your Engineering projects, including your mini-project and major project.
+
+HR Round:
+
+Introduce yourself.
+How were your L1 and L2 rounds?
+In how many companies have you given interviews so far, and how was your experience?
+Tell me about your internships.
+What are your strengths and weaknesses?
+Why did you join CDAC after your graduation?
+What do you know about TATA Technologies?
+Are you willing to relocate?
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+Company :- Elastic run 
+(1st round - 30 mins, 2nd round - 1hr)
+Introduction 
+Explain your project.
+Explain front end backend connection.
+Write the folder structure of backend and front end of your project and explain what you wrote in that folder.
+Write the logic of login.
+How is the password stored in the database?
+Explain encryption,  decryption.
+Explain hashing.
+Explain the difference between encryption decryption and hashing.
+Write the code for two sum problem and three sum problem.
+Explain multithreading, multiprocessing.
+What is the difference between parallel processing and multi threading?
+Explain the difference between for and iterator.
+Explain me the use of an iterator.
+Explain lamda function.
+Write a simple code using the lambda function.
+What is list comprehension, dictionary comprehension?
+Explain oops concept and pillars with example.
+Tell me 10 tags of html/ js.
+What is a component?
+Explain the hooks.
+Have you deployed your project?
+Explain AWS services.
+Tell me the platforms which can be used instead of AWS.
+You have provided an array of daily rate prices of the stock market of the previous month. Write a code to find on which day we should buy and sell the stock.
+Find the top 10 values from the order table having order id, order value, type whose order value is greater than 1000 and descending order by type.
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+T-Systems ICT India pvt Ltd 
+1st round-
+Introduce yourself 
+Which technologies used in project
+Give me 2 mysql queries and ask why I am solve them in that way only
+Sorting code - ask in which order it will sorted and how?
+What is web services?
+Different webapi's ?
+Difference between put and post
+Difference between put and patch
+Sdlc lifecycles phases
+What is testing
+Different types of testing
+Difference between blackbox testing and whitebox testing
+How we retrieve value in javascript?
+Where we use javascript?
+How we do validations in javascript ask its code
+Where we write function in javascript
+Where we write script tag (inside head tag)
+How many different ways to embed javascript in our code?
+Ask more confusing questions about it
+How we show popup box in javascript?
+Give 1 array and ask how to fetch 1 particular element in javascript(ask about the function which use to fetch that element)
+How we use alert with textbox validation(I don't remember question exactly but it is like this type)
+Is document.getelementByClass function present or not?
+What is JQuery? Ask its syntax
+What is cloud computing?
+Why you change your field ? And many more questions related that
+
+
+HR Round
+Introduce yourself 
+Why you change your field from food technology to IT? Ask many cross questions on it?
+Your score is much more high in food technology than CDAC then Why you not choose your career in food technology ?
+Why should we hire you if you change your mindset after 4 yrs of your b tech ?
+Where do you see yourself in next 2 yrs?
+Ask scenario based questions- if you write 1000 lines of code and you know it is correctly working. you give this code to your colleague. He say that there is error in your code then what should you do?
+Ask some technical questions like -
+what is functions in c, SQL joins, equals method, difference between DBMS and RDBMS
+Why you use RDBMS in project
+When you have free time then what things you choose to do?
+Ask about hobbies
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+Giesecke and Devriant - G&D
+
+1st round
+Aptitude - 40 questions 40 mins
+
+2nd round - Technical 1hr
+My whole interview was on .net and c#
+1. Introduce yourself
+2. Which stack of technologies did you use in your project?
+3. Why did you choose .net as your backend in the project?
+4. Which version of .net did you use?
+5. OOP's concepts with example.
+6. What is the difference between read-only and const keyword?
+7. Explain the flow of project.
+8. What do we write in the file program.cs file?
+9. What is the use of launchsettings.json file?
+10. In the mobile application scenario, explain the OOP's concepts used.
+11. Find the 3rd highest salary of an employee.
+12. Find the name, department of an employee who belongs to manager department.
+Two tables were given emp table and dept table in which deptno was the foreign key in the emp table.
+13. What are the keys in database.
+14. What is LINQ queries?
+15. What is the difference between .Net Core and  Net framework?
+16. What is CLR?
+17. What does garbage collection do?
+18. When does garbage collection gets called?
+19. What is CTS?
+20. What are the datatypes in c#?
+21. Explain constructor and types of constructor.
+22. What is assembly code?
+23. What is CLS?
+24. What is managed and unmanaged thread?
+25. Explain the access specifier in c#.
+26. What is sealed keyword? When and where we can use it?
+27. What is boxing and unboxing?
+28. What is the difference between Arrays and and Array list?
+29. Explain collection in c#.
+30. What is delegate?
+31. Two snippets were given to me and I have to find the output of it.
+32. Why did you choose MySQL as a database and MySQL server in your project?
+33. Coding questions.
+i) Reverse the each word in the sentence.
+Example :- Let's have a party
+Output:- s'teL evah a ytrap
+
+ii) From 1 to 10 no find the sum of even no and print the sum.
+
+iii) If you have an array of {0, 1, 2, 3, 4....18, 19, 20}. Give an array which has the number which is divisible by 3 and the remaining numbers should be printed after the numbers which are divisible by 3.
+Output - 3,6,9,12,15,18,0,1,2,4,5,7,8...20
+
+34. What is the difference between .net and c#.
+35. Explain app.run and app.use in middleware configuration.
+36. What is JIT compilation?
+37. What is IL code?
+
+3rd round - HR 15-20 mins
+1. Introduce yourself.
+2. What are your strengths and weakness.
+3. Asked questions about BE project and CDAC project.
+4. Why did you choose mental healthcare topic as your project in BE. (My project was on "Depression Detection using Machine Learning")
+5. What was the accuracy of your project.
+6. For sample inputs for your project whom did you choose?
+7. How did you figure out the questions or from which resources did you use to ask the questions regarding the depression.
+8. Are you ready to relocate?
+9. What do you think about Northern India, their culture and food.
+10. If you would get an opportunity to go outside India let's say for a buisness trip or relocation, what do you think about that.
+11. What are your hobbies.
+12. What challenges did you face when you were working on your project.
+
+
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+CDAC pune :
+
+Technical Round - (10-12 min)
+Tell me about your project.
+     Including brief description, What are the Entities     
+     in your project and relationships between them.
+
+Explain what is oop.
+     I explained with Major pillars and real life examples 
+
+Memory management related questions.
+Where are the objects stored on which section?
+Where does array gets created in memory?
+
+What is difference between string and string buffer?
+What is mutability?
+If I want to perform frequent operations on string which one should I prefer?
+
+Explain Types of joins. (Given two tables nd asked to write query related to join).
+
+
+
+Coupa:
+
+Technical Round 1 (40 min)
+
+Entirely based on project.
+They start with like ... I was scrolling through your git repository.. 
+Explain me your ER Diagram. 
+How they are mapped.. what relations you used?
+what are the keys. which are primary keys nd foreign keys?
+How you decided which column should be your tables primary key?
+what is difference between primary key and unique key?
+
+Then one of them asked you used OneToMany relation.. explain me about that how you are managing .. cuz I think it may leads to Exception.
+      --> I tried to explain in every aspect like we excuted and tested it ..  it's working absolutely fine bt he was not convinced with the explanation I given.
+
+Then he asked me what you will do if such exception occurs in future. 
+     --> I gave somewhat closest solution related to normalisation. Then he says ok.
+
+Then given one problem to solve.. provided their editor to solve problem.
+Problem: (a+(b*c)/d)-((a*c)+(b*d))  something like these nd ask to check whether expression contains valid paranthesis.
+      --> I gave stack based approach nd discussing with them while writing.
+
+
+Technical Round 2 - (25 min)
+
+Entirely based on project design and development.
+
+How you start with your project?
+From where you get these idea?
+How you decided to start.. which approach you used?
+  --> I started explaining code first approach bt he stops me by saying don't go inside code .. just explain me how you design it at initial level on pen paper.
+        Then I started to explain ER diagram then again he stops me nd say I don't want ERD.
+Explain me what Architecture design pattern you used? 
+     --> I was unable to give answer related to this.
+Then he says ok fine. I think you are comfortable with database. 
+So tell me about what parameters you considered while designing database. Like scalability, performance, when database will be crash etc.
+
+What are different tier architectures .. like 2 tier, 3 tier , n tier.. which one you used?
+
+How you manage your data between these layers?
+
+Then he move asked me about in which technology you are comfortable?
+    --> I said java.
+What if I want to perform same operation with n different values. 
+    --> I explained about overloading and concept of var-args.
+
+Finally he gave me star pattern question to solve. And asked to explain me code what I write .
+Also asked what is time and space complexity of these code.
+
+
+T- Systems (45 min)
+
+Technical Round - 
+Tell me about yourself.. nd about your projects mentioned in resume.
+Which technology you are comfortable with.
+    --> I said java and Database.
+
+Then they gave 3 codes to solve.. were quite easy
+1. To check given no is palindrome or not?
+2. Related to File operations. File Read and Write.
+3. To sort the array in ascending order.
+
+Then asked some questions 
+Java : 
+1. What is overloading and overriding?
+2. What is inheritance?
+3. What is Is-a and Has-a relationship?
+4. Collections in java? What is ArrayList nd Linked list?
+5. How Hashmap works?
+6. What is multi threading? How it works?
+7. What is Exception Handling? What is abnormal termination?
+8. How to decide what to write in finally block?
+9. Is it possible only to write try and finally block without catch?
+10. Then What will happen if we write only try finally block nd exception occurred?
+11. Did you know about static nd final?
+12. How they are differe?
+.13. Can we write final constructor?
+
+Database:
+14. What is difference between view and table?
+15. Where are the views stored?
+16. What is Index? Where to use it?
+17. What are different joins? 
+18. Can you write one query explaining join related to your project?
+19. Any questions?
+
+HR + managerial (15 min)
+1. Tell me about yourself?
+2. Why you choose IT?
+3. What is flexible career? 
+4. What do you think about switching between companies?
+5. What is important to you .. experience or money?
+6. When money will be important to you?
+7. What do you think about men and women ratio .. is it maintain in IT industry?
+8. You are having almost above 90 in your 10th diploma and BE.. then what is reason of getting down in CDAC?
+9. What do you do in your free time?
+10. What if I ask to work you on same technology for more than 2 yrs?.
+11. Will you work on same project with same technology for 4 yrs and more?
+12. Which is you area of technology.. 
+13. One technical question he asked .. what does database.lock file contains?
+
+
+Avaloq :
+
+Initially they conducted pen paper test questions were based on quant , logical reasoning and PLSQL
+
+During interview they are having that sheet nd asked some questions from them like how you end up choosing these option .. explain me your approach of solving these problem.
+I got only 4 marks in quant bt 20 marks in PLSQL so my interview was based on only SQL and PLSQL
+
+Technical Round - (25 min)
+1. Asked some questions related to procedures which were asked in test.
+2. Why you say these is procedure?
+3. Then what is function?
+4. Explain your project and ERD.
+5. What are relations between them? How you manage it?
+6. What are primary keys and foreign keys?
+7. Take any of the Entities and draw your table structure?
+8. Then asked some questions based on it and some queries to fetch particular data from those tables?
+9. Then asked to optimise these query.
+10. If your table is large enough how would you handle it?
+11. What is Index?
+12. Can we create multiple indexes on same table?? How and How many? 
+13. Do you know about TCL commands?
+14. Given some real scenarios and asked what will happen in case of some commit.. some rollback operations were there .. and asked about end results reflected in database.
+15. What is cursor?
+16. Purpose of cursor?
+17. How nd where to use it?
+18. What are triggers?
+
+HR : (3-5min)
+1. About yourself.
+2. About family.
+3. Where do you stay in Pune?
+4. Are comfortable with relocation?
+5. Any questions?
+
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+BridgeNext---
+
+1) 1st round oops concepts and in your project how you implement it .. and give me 3 coding questions 
+1) palindrome string
+2) reverse string
+3)count occurance of char 
+In 2nd round they goes in depth my project and some basic SQL queries 
+3rd round are simple hr round. The questions asked in interview
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+Sarvagram Solutions:
+	Technical Round 1:
+		Q1. How will you design the Workout Tracking system? Explain each functionality with reference to  tech stack(Frontend, backend, database).
+		Q2. What is Collection? What is the Difference between ArrayList And LinkedList? When to use LinkedList And When to use ArrayList? 
+		Q3. Which Kind of Data Structures you Used in your Project?
+		Q4. How to Make a Class thread safe?
+		Q5. The String Code Snippet for Finding out How many objects Of string will be created?
+		Q6. Code snippet of ArrayList and Map And perform the given operations on them example find the index of given Object...
+		Q7. Questions on SQL Joins And views
+		Q8. Questions on git branching 
+	
+	Technical Round 2:
+		Q1. Explain your Project?
+		Q2. What is difference between Spring and Springboot?
+		Q3. Explain @RestController and @Controller
+		Q4. Explain Annotations used in Springboot (ex. @MappedSuperClass,@component,...)
+		Q5. React and JavaScript Related basic Questions
+		Q6. SQL Joins related questions
+		Q7. Where do you see yourself in next 3 years?
+
+	HR Round :
+		Q1. Introduce yourself.
+		Q2. Family Background related questions
+		Q3. Why CDAC?
+		Q4. How did you faced Failures ?
+		Q5. What do you know about Sarvagram Solutions?
+		Q6. Have you any Questions For me?
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+Sko System:
+There was a basic GD round On hard work vs smart work 
+	Technical Round :
+		Q1. Oops concept 
+Q2. What is runtime and compile time polymorphism 
+3.Some questions regarding api and http methods what they do 
+Q4.Is post method can update existing data or not?
+Q4. Suppose I as customer login into your website there are certain columns in your database which keep logs of login and logout and I wanna each time when I login then my login columns should updated  and logout columns should be deleted then 
+How will you achieve this
+Q6. How many Api have you written in your app
+Q7.what is react 
+Q8.what is hooks
+Q9.In MySQL database I have some customers dataset and I wanna perform some dml operation like in a way that I could perform each operation but it should not affected my actual dataset 
+No HR Question 
+Thank you for the wishes guys 😊 and All the very best for the future placement
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+Interview Questions
+Written Questions:
+1) Program to Convert String to Integer without using Integer Parseint.
+2) Program to read the data from file and remove ' ' and \n and duplicates from the string.
+3) Program to print Manhattan (if no. is multiple of 3) print Associates(if no. is multiple of 5) and Manhattan Associates (if no is multiple of both 3 and 5)
+4) 3 questions related to inner joins.
+5) Program to swap value of variables without using a 3rd variable.
+6) Reverse string and check for palindrome without using a temporary or another string. 
+7) Explain OOP concepts using real life examples
+Answer Question
+In interview:
+1) How do you handle exceptions in your project?
+2) Which server do you use i your project?
+3) Why main method is static?
+4) What is encapsulation?
+5) Have you ever used git and which version control is used in your project?
+6) What is the difference between string buffer and string builder?
+7) Write exception hierarchy and how do you get to know in your code that where is error?
+8) Which exceptions and errors have you faced in your project and how did you fixed them?
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+1st Interview 
+Project overview and technologies used.
+What all the difficulty u had to face while making this project and how you overcome it.
+They ask me oops questions.
+Real-life examples of all oops pillars.
+Java coding question to find the length of a string with O(n) complexity.
+
+2nd interview 
+Sort ascending order of Array and find the minimum value. 
+Can you solve it using recursion?
+Different types of joins. Explain each.
+SQL question : Suppose you have a Customer table and a Bank table. Some customers have Bank. Write a query to select/show Customer_id with their Bank_id using joins.
+
+Hr: 
+About Yourself.
+Project overview.
+What you know about our company (Look into company website with their customer company name and which technology services they offer and answer them).
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+L1: 
+1) asked about project both final year and cdac project 
+2) have you deployed your project 
+3) what did you do to improve your project performance 
+4) asked me to rate myself in python and Java
+5) explain oop concepts 
+6) asked to write code for Fibonacci series 
+7) then some SQL questions 
+How to calculate average of salaries of employees departmentwise 
+With using subqueries, asked me to not use avg() aggregate function 
+8) questions on joins 
+9) what is normalisation
+10) explain 1nf, 2nf, 3nf 
+11) joins in SQL
+12) then DSA questions: what data structures you have implemented 
+13) how will you implement stack data structure
+14) why linkedlist and not array for implementation of stack 
+15) how will you perform push, pop and peek operation 
+
+L2:
+problem Statement: 
+Customers table: cid, pid, quantity 
+Products table: pid, description 
+
+1) give the highest quantity from customers table 
+2) give cid, description and highest sum of the quantity baught by a customer
+3) what is ETL(extract, transform, load)
+4) some cloud concepts(how will you migrate data from local storage to cloud)
+5) some basic concepts of GCP(Google cloud platform) 
+
+HR:
+1) Introduction 
+2) family background 
+3) why did you choose cdac
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+1)Tell me about yourself + Hobbies + what motivates you 
+
+2)Tell me about your project in short and gimme flow... like as a user what he will experience when he visits your web application 
+
+3) FACTORIAL normal + Now Use Recursion 
+a]Remove Duplicate ( So I used set )
+b] Then he asked me to remove it without using the collection ( So I made a function similar to the way the collection contains method ) 
+c] still he was not satisfied with it somehow using the brute force I gave him weird non - optimised and then he got satisfaction 
+
+4) Then he gimme 3 tables and told me to use Joins and now solve the same question using sub-queries 
+
+5) Write your User controller and explain all annotations and Some scenarios based questions on Controller like what if you used @GetMapping and instead of GET what if You perform update function and many more scenarios based questions 
+
+
+HR (Formalities) :
+Tell me about yourself your family details 
+Weakness Strength 
+Show me how passionate you are 😑
+Be elastic coz u may use Java or Python as Backend Developer 
+Any Questions for me ?
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+Alfa Laval Interview Process
+Online Test:
+
+Section 1: Technical MCQs
+Section 2: Gamified Test
+
+Interview
+
+
+Technical:
+
+1.Tell me about yourself.
+2.Explain your DAC project.
+3.Explain OOP concepts.
+4.Explain React JS hooks.
+5.How do you use useEffect and useState?
+6.What are the types of components in React?
+7.Which types of components did you use in your project?
+8.Did you implement validations in your project?
+9.What types of validations?
+10.Explain the virtual DOM.
+11.Questions about your engineering project (deep learning, Python):
+   i. What is deep learning?
+   ii. Why did you use this technology?
+   iii. What was the motivation behind this project?
+   iv. Where did you get the dataset for this project?
+   v. What was the accuracy of the prediction?
+   vi. How did you calculate accuracy?
+   vii. What was your role?
+   viii. What do you know about Alfa Laval?
+
+
+HR
+
+
+1. Tell me about yourself.
+2. Additional questions on your engineering project.
+3. What is your favorite language? (You answered Java.)
+4. Why Java?
+5. If someone asked you to choose between Python and Java for their project, which would you recommend and why?
+7. Are you currently working on any side projects?
+8. Are you comfortable with technologies other than Java?
+9. What do you do in your free time?
+10. Who is your role model?
+11. Why didn’t you get placed during your engineering campus placement?
+12. Why did you choose DAC?
+13. What are your questions?
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+Onixnet 
+
+L1 : 
+
+1) asked about project both final year and cdac project 
+(Final Year project is in Python and Machine Learning)
+
+2) So asked about python libraries and their usage 
+
+3) asked to write code to load the dataset 
+
+4) How did you implement ML algorithm and working ?
+
+5) what did you do to improve your project performance ?
+
+6) In cdac project , 
+How you implement OOP concepts.
+
+7) Explain flow of your project .
+
+8) Tell about polymorphism in detail.
+
+9) asked me to rate myself in Java and SQL
+
+10) Given code : 
+To count occurance of character in a string in O(n) complexity 
+
+11) Some SQL queries questions on join
+
+12) Which Data structures have you implemented?
+
+13) How to Create dataset using SQL.
+
+
+L2 :
+
+1) Problem Statement : 
+In a csv file you have a two columns with some data how will you concat that two columns in a one column
+
+2) Given a table with columns - items , amount and price .
+Asked to write a query to fetch total bill amount.
+
+3) Asked to write code in java for same scenario
+
+4) What is difference between java and python ?
+Which one is Fast .
+
+5) What is Data frames? 
+
+HR:
+1) Introduction 
+2) family background 
+3) who is your Inspiration ?
+4) which books you have read and tell summary
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+Qodequay Technologies (Technical Interview)
+1. Introduce yourself
+2. Explain your project and your role in project 
+3. what is react
+4. explain hooks you used in your project.
+5. Difference between == and === in javascript
+6. Technology used in project 
+7. what is final , finally and then diff between them.
+8. query to find out 2nd last row from table 
+9. code snippet find expected output.
+10. how you implement security in your project.
+11. how you manage the user session in frontend.
+12. what is  JWT token
+13. how you implement jwt.
+14. how you manage your details with every request. and logic of Logout.
+15. what is redux.
+16. 3 to 4 coding questions.
+17. what is the validity of your jwt token.
+18. how you manage the relationship between 2 tables in your project.
+19. if you have an address table and user table so how will you manage the relationship between them, and foreign key will be in which table.
+20. have you used version control ?
+21. explain git.
+22. how you will commit
+23. how to create a new branch.
+24. merge two branches.
+25. basic commands of git.
+26. what is abstraction
+27. what is interface and its uses.
+28. problems you faced during your project.
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+COUPA - 
+
+Technical round - 50 min
+
+1.Introduction
+2.find missing number in array program
+3.balance parenthesis program
+4.explain osi model
+5.explain tcp/ip model
+6.limitation of osi model
+
+AVALOQ 
+
+Technical round - 20 min
+
+1.Introduction
+2.Explain overloading and overriding
+3.Explain joins in sql
+4.Explain procedure in plsql
+5.Explain function in plsql
+6.What is diff bet procedure & function
+7.Diff bet DDL & DML
+
+Hr - 3 to 5 min
+
+1.Introduction
+2.family background
+3.About Relocation
+
+Duck Creek Technologies 
+
+HR round - 20 min
+1.Introduction
+2.Problems faced in project
+3.Que on teamwork
+4.About Relocation
+
+Bridgenext
+
+R1 - 50 min
+
+1.Introduction
+2.Oops concept
+3.palindrome number program
+4.Find second highest element in array program
+5.Bubble sort code
+6.String anagram program
+
+MKCL
+
+R1 - 20 min
+
+1.Introduction
+2.Oops concept
+3.Explain joins in sql
+4.some basic sql queries
+5.What is orderBy and groupBy
+6.Is orderBy or groupBy affects performance of query and if yes then why and how?
+7.How oops is applied in mobile phone
+
+
+iPogrammer
+
+R1 - 50 min
+
+1.Introduction
+2.Find second highest element in array - I used bubble sort & returning element at length-2 then he said do without using sorting
+3.String reverse program
+4.Palindrome no program
+5.what is stack and queue
+6.oops concept
+7.some basic sql queries
+8.Explain joins
+9.Diff bet git and github
+10.What is deadlock
+
+R2 - 35 - 40 min
+
+1.Introduction
+2.Explain stack and queue
+3.when we should use stack & when queue
+4.what is list 
+5.what is abstract class and interface
+5.Give me situation in real life where we can use only abstract class 
+6.Give me situation real life where we can use only interface
+7.write a code for finding largest element in array 
+i/p = {12,23,{63,89,60},{10,34},45} o/p - 89
+
+Zensar 
+
+TR - 30 - 35 min
+
+1.Introduction
+2.find missing no in array
+3.find second largest element in array
+4.oops concept
+5.some sql queries
+
+HR - 6 min
+1.Introduction
+2.Family background
+3.Who is your role model and why
+
+
+Agkiya Technology and Consulting LLP	
+
+TR - 25 min
+
+Interview is all about project 
+Asked me to share screen, run the project and then they asking questions
+
+
+ResMed - 5 interviews => 4 Technical + HR 
+
+R1 - 20 min
+
+1.Introduction
+2.oops concept
+3.write code for finding duplicate in array or list
+4.about relocation
+5.where do you see yourself in next 5 yrs
+
+R2 - 50 min
+
+1.Explain project
+2.problem faced in project
+3.some situation based questions
+4.what is hooks in react
+5.How you managed entities in your project
+6.About relocation
+
+In intro I said that I am speciliazed in java there fore they take two seperate Technical rounds on java
+(their role is for .net but they have opening for java role also and I said that I am speciliazed in java there fore they considered me for java role)
+
+R3 - 40 min
+
+1.Explain stack and its working with example
+2.They give some code snippets and asking what will be the o/p then asking me to open IDE and run that programs.
+3.diff bet == and equals
+4.oops concept
+5.Hashmap working
+6.contract bet equals and hashcode
+
+R4 - 30 min
+
+1.Introduction
+2.implement stack and explain
+3.implement binary search
+4.find unique character in string
+5.write code for runtime exception
+6.what is return type of put()
+7.Diff bet hashset and treeset
+8.Hashmap working
+6.about relocation
+
+HR - 20 min
+1.Introduction
+2.give me the situation in your life when doing new things you faced failure and how you managed that
+3.some ques on Teamwork
+4.some situation based ques
+
+
+Bajaj Finserv 
+
+R1 - 35 min
+
+1.Introduction
+2.oops concept
+3.palindome number program
+4.palindome string program
+5.write code for this i/p - {1,2,4,6,7,8} o/p - {9,9,10} 
+6.what is map
+7.what is list
+8.array and target is given you have to find pair in array such that two element sum is equal to target and solution should be optimised
+i/p - array = {1,2,7,9,4} target = 11 o/p {1,3} 
+
+9.what is your role in project - I said I worked on frontend and backend as well that's why they asked que on react and springboot also
+10.what is react
+11.how data is passed from one component to another in react
+12.what is controller
+13.what is HTTP apis
+
+R2 - TR + HR 80 min
+
+1.Introduction
+2.String anagram program
+3.find count of each character in string 
+4.Explain your project in detail & what is your role in project
+5.Explain how data is passed in your project with help of diagram
+5.Is there any way in interface to add implementation of methods as well
+6.static methods are supported in interface or not
+7.use of super keyword
+8.How to make any datatype as immutable
+
+You use leetcode or not? I said yes there fore they given me que on leetcode 
+9.i/p - two sorted lists o/p - merge list in asceding order
+10.what is deadlock
+11.explain runnable i/f
+12.How to prevent deadlock in java
+13.family backend
+14.About relocation
+
