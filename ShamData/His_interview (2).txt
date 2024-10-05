@@ -1,0 +1,54 @@
+Ask about the Introduction and technical background
+Ask about Projects
+Ask if you face any Challenges in RN while working and how you resolved them.
+
+JS Questions
+Event loop and its functions
+Es6 features
+Rest vs spread operator
+Callback vs promise
+Async/await
+Arrow function vs normal
+Difference between const let and var
+Destructuring
+Shallow vs deep copy
+Differ between map and forEach 
+Object.prototype.bind
+Type of null, undefined
+promise.all
+Snippet
+
+React
+How react works
+Virtual dom
+Component lifecycle
+How to manage Component lifecycle in functional components
+all Hooks
+What are refs
+Hermes
+Pure function
+Props drilling 
+Props drilling Disadvantage
+Steps to avoid Props drilling
+Redux flow
+Why reducer is a pure function?
+How does redux work in the app?
+How state gets updated?
+Why state is immutable?
+Why can't we just modify the state directly, why do we create a new object?
+What is the use of connect
+Context API
+Middleware
+Pure component
+Functional vs class
+How to pass data from child to parent
+How to call the child component method
+Higher order components
+Session handeling, 
+local storage
+Typescript
+Versioning tools?
+Git Commands example
+Test cases using Jest
+What is Jest
+

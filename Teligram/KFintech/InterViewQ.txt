@@ -1,0 +1,113 @@
+Knight Fintech: 
+
+Panel : Nishant , Nitija a
+
+Interview was like a rapid fire round, they were 
+throwing questions one after another. I realized that 
+they wanted short answeres so I tried to keep my answers 
+short and to the point.
+
+-Introduce yourself 
+-Tell me about DAC project 
+-Your role in project 
+-He went deep in project regarding session management,
+ debugging, bidding logic of my project ,how you designed bidding 
+ algorithm and some more project specific questions.
+-I have not mentioned my degree project(Mechanical) in Resume, so they 
+ asked about it. (because I felt that there is no point in mentioning 
+ non-tech projects in tech Resume)
+-Then they picked my data structure mini project , and started asking 
+ questions on it. That project was on "Stock Market" order pairing , 
+ they were curious to know about that project and I explained the 
+ algorithm quite well, I think this was the point where they got impressed. 
+ (here , I asked them can I explain by drawing on whiteboard) 
+-They gave me some input data and asked How your algoritm will respond.
+-How you manage data concurrency in project
+"Projects are really really important!!"
+
+Other Questions:
+-Questions on use of link list in various use cases 
+-Hashmap implementation in both ways chaining and open addressing
+-how to improve efficiency of hashmap. 
+-Scenario, If some part of webpage is taking to much time to render 
+ then how you will debugg it. Multi-threaded response  
+-Expain how you will debugg application at each stage frontend,backend,db,api etc 
+-Gave three code snippets and asked o/p.
+-Scenario, based on OOPs concept(easy).  
+-call by value call by ref, its use cases
+-security of application.  
+They asked many small small concepts on java,Dotnet,database etc and checked understanding 
+
+HR: 
+-why mechanical to IT ?
+-where do you see youself after 5 years?
+-Relocation 
+-Expectation from us
+-what do you know about KF
+-hobbies, interest etc ....
+
+Tips: 
+-Don't give them unecessary keywords in your answer. 
+-Be polite, accept your mistake quickly
+-Prepare your project in deep.
+-If you don't know complete answer then just tell them 
+ that you are not sure about it but Can I try to answer . 
+-Be confident, atleast fake it !!!
+Questions asked in Knight fintech interview
+1) Explain your project and flow of the project?
+2) Difference between stack and queue?
+3) How many pointers in Stack and which of this?
+4) What is Linked list and explain where do you used in your project
+5) What is hashmap and the inner implementation of hashmap
+6) What is polymorphism and give real life example
+7) What is methodoverloading 
+8) Difference between interface and abstract class 
+9) What is partial class 
+10) Explain delegate in c# 
+11) Explain the various types of constructor in c#
+12) Explain Life cycle of MVC
+13) What is restfull api 
+14) explain routing?
+15) two to three question on  Exception handing. 
+16) Difference between filestructure and storage structure
+17) one or two questions on collection 
+18) Some questions dont remember on asp.net
+Knight Fintech
+Interview questions
+------------------------------------
+Final project in detail
+How session management is done 
+What is JWT 
+How exceptional handling is done in backend 
+In-depth project questions
+
+-OOPS concepts
+With programming example
+-Collection
+-Array and arraylist 
+
+-Exceptional handling
+-Interface and abstract class 
+-What is static class and its use 
+
+Database:- 
+-Unique key 
+-Composite key 
+-Stored procedure
+-Types of join 
+-Diffrence between inner join and outer join 
+-mostly Scenario based questions on above topics 
+
+And interviewer was preferring short ans
+Knight fintech
+1) Explain about your project and your role in project
+2) Explain Technologies used in your project
+3)How can you implement Queue using stack
+4) LinkedIn List : Types , realtime examples, difference between singly and doubly
+5) realtime examples of stack and Queue
+6) Explain ASP.net MVC architecture
+7)Types of filters in ASP.net MVC
+8) Return types in controller in asp.net MVC
+9) what is crud repository , crud operation
+10) explain  Delegates in dot NET
+11) abstract class vs interface

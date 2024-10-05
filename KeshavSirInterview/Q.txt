@@ -1,0 +1,19 @@
+Interview Questions
+Written Questions:
+1) Program to Convert String to Integer without using Integer Parseint.
+2) Program to read the data from file and remove ' ' and \n and duplicates from the string.
+3) Program to print Manhattan (if no. is multiple of 3) print Associates(if no. is multiple of 5) and Manhattan Associates (if no is multiple of both 3 and 5)
+4) 3 questions related to inner joins.
+5) Program to swap value of variables without using a 3rd variable.
+6) Reverse string and check for palindrome without using a temporary or another string. 
+7) Explain OOP concepts using real life examples
+Answer Question
+In interview:
+1) How do you handle exceptions in your project?
+2) Which server do you use i your project?
+3) Why main method is static?
+4) What is encapsulation?
+5) Have you ever used git and which version control is used in your project?
+6) What is the difference between string buffer and string builder?
+7) Write exception hierarchy and how do you get to know in your code that where is error?
+8) Which exceptions and errors have you faced in your project and how did you fixed them?
