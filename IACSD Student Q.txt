@@ -1224,4 +1224,101 @@ You use leetcode or not? I said yes there fore they given me que on leetcode
 12.How to prevent deadlock in java
 13.family backend
 14.About relocation
+//////////////////////////////////////////////////////////////////////////
+
+
+Xcaliber Infotech – 
+L1 Round:
+1.	Introduce yourself.
+2.	Provide details about your project.
+3.	Describe the kind of work you did in your previous organization.
+4.	What are the entities in your project? (Write them down on paper and explain orally.)
+5.	What mappings did you use in your project?
+6.	Explain the @OneToMany and @ManyToMany annotations.
+7.	Draw tables for real-world examples of @OneToOne and @ManyToMany relationships, then explain how these represent the respective annotations.
+8.	Explain the pillars of OOP with examples.
+9.	What is JWT?
+10.	What is the role of JWT in your project, and how does it work?
+11.	Does JWT have an expiration time?
+12.	What are the types of databases?
+13.	What type of database is MySQL, and what type is MongoDB?
+14.	What are the data types in MySQL?
+15.	Why do we use the VARCHAR data type when CHAR is available in MySQL?
+16.	What are DDL and DML?
+17.	Is the SELECT statement a DML statement?
+18.	What is memory leakage?
+19.	Give some examples where memory leakage might occur.
+20.	What is a dangling pointer?
+21.	How do we handle memory leakage in Java?
+22.	What is the difference between TRUNCATE, DELETE, and DROP?
+23.	You have a table with a primary key that auto-increments. There are 5 records in the table:
+1.If you perform a TRUNCATE operation on the table and then add a record, what will the primary key value be?
+2.If you perform a DELETE operation to remove the last record and then add a new record, what will the primary key value be?
+24.	If we have DELETE, why do we need TRUNCATE?
+25.	Given two tables, emp and dept, where emp has three records, and one department in the emp table is not present in the dept table (which has two records), write a query to display the emp and dept tables along with the output.
+26.	If we use a left join, what will be the output?
+27.	Write a program to check if a string is a palindrome using both inbuilt and non-inbuilt methods.
+28.	What is the difference between println and print?
+29.	Why do you write -1 in arr.length - 1?
+30.	What is the provided string's length and last index?
+31.	What is an ArrayIndexOutOfBoundsException?
+32.	What is an exception, and what are the types of exceptions?
+33.	Can we handle compile-time exceptions?
+34.	Can we handle runtime exceptions?
+35.	How do you handle exceptions?
+36.	Which block is executed every time?
+37.	What are the advantages of using React?
+38.	What is JavaScript?
+39.	Why did you use Spring only, even though you have JavaScript?
+40.	Write the code for HTML tags.
+41.	What are tr and td? Write code for them.
+42.	Can we write Java code inside HTML? If yes, how? If no, why not?
+43.	What is ORM?
+44.	If Hibernate doesn’t provide any HQL support and we only write SQL queries, how can we do that?
+45.	What are the other methods of JPA?
+46.	What is an annotation?
+L2 Round:
+1.	Explain your project in detail.
+2.	What entities do you have in your project?
+3.	How did you manage the entities?
+4.	How many users do you have?
+5.	Why do you have this number of users?
+6.	What authorizations do they have?
+7.	Can any user access different functionalities? (If no, explain how you managed it.)
+8.	Can the admin access everything, and does the admin need to log in as another user?
+9.	Do we need to log in every time as a user?
+10.	Can another user register as an admin? (If no, explain how you managed it.)
+11.	What is REST API? Why did you choose REST API, and what are its advantages?
+12.	What is state transfer?
+13.	How did you manage user state in your project?
+14.	What is JWT?
+15.	How does it work?
+16.	Will a new JWT token be generated every time?
+17.	Will JWT expire?
+18.	If a user logs in on one browser and then on another at the same time, what happens if they log out of one browser? Will they still be logged in on the other?
+19.	How is the JWT token created differently for each login?
+20.	What is OOP? Explain.
+21.	How did you implement abstraction in your project?
+22.	How is abstraction present in the controller you wrote?
+23.	Write code for abstraction in a vehicle scenario.
+24.	If I wrote something like this, would it be considered an interface?
+25.	What is an interface?
+26.	If we have an abstract class, why do we need an interface? When would you choose one over the other?
+27.	What is Spring?
+28.	What is the command to run a Spring application on the command line?
+29.	If there are other frameworks in Java for backend development, why did you choose Spring Boot?
+30.	What is a controller?
+31.	What is a linked list?
+32.	Write code for a linked list.
+33.	Why is the return type an ArrayList and not a LinkedList?
+34.	If we have ArrayList, why do we need LinkedList?
+35.	If I add 1, 2, 3, 4 to both an ArrayList and LinkedList, then remove 3, what happens in memory?
+36.	Write code to find the second-largest element in an array.
+37.	He gave some array elements—explain how the code works for those elements.
+38.	He gave me two tables and asked me to find the second-highest salary.
+39.	Is there another way to find the same result, like using a subquery? If yes, how?
+40.	Why did you do CDAC if you were already working at Wipro?
+41.	Do you have any questions to ask?
+
+
 
