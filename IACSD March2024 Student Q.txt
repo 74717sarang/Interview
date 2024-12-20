@@ -1,3 +1,4 @@
+g.....
  Securely(omkar)
 
 Pen-Paper Test (30 MCQ - 1 hr)
@@ -40,7 +41,7 @@ Why you switch to IT ?
 //////////////////////////////////////////////////////////////////////////////
 
 
-
+..........
 CDAC PUNE (Technical Interview)(pratik)
      Introduction
 - Project 
@@ -709,7 +710,7 @@ Sarvagram Solutions:
 		Q7. Questions on SQL Joins And views
 		Q8. Questions on git branching 
 	
-	Technical Round 2:
+	Technical Round 2:   ....
 		Q1. Explain your Project?
 		Q2. What is difference between Spring and Springboot?
 		Q3. Explain @RestController and @Controller
@@ -1320,5 +1321,5 @@ L2 Round:
 40.	Why did you do CDAC if you were already working at Wipro?
 41.	Do you have any questions to ask?
 
-
+/////////////////////////////////////////////////////////////////////////////////////////
 
