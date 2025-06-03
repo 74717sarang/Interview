@@ -366,7 +366,8 @@ How is the password stored in the database?
 Explain encryption,  decryption.
 Explain hashing.
 Explain the difference between encryption decryption and hashing.
-Write the code for two sum problem and three sum problem.
+Write the code for two sum problem and three sum 
+.
 Explain multithreading, multiprocessing.
 What is the difference between parallel processing and multi threading?
 Explain the difference between for and iterator.
@@ -386,7 +387,7 @@ Find the top 10 values from the order table having order id, order value, type w
 
 
 
-
+;;;
 //////////////////////////////////////////////////////////////////////////////
 
 

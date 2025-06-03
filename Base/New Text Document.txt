@@ -1,0 +1,194 @@
+Top 40 SQL
+
+
+
+Here are the Top 40 SQL Interview Questions with Answers for quick interview preparation:
+
+🔹 Basics of SQL
+What is SQL?
+SQL (Structured Query Language) is used to communicate with and manipulate databases.
+
+What is a database?
+A database is an organized collection of data that can be easily accessed, managed, and updated.
+
+What are the main types of SQL commands?
+
+DDL (Data Definition Language)
+
+DML (Data Manipulation Language)
+
+DCL (Data Control Language)
+
+TCL (Transaction Control Language)
+
+DQL (Data Query Language)
+
+What is the difference between CHAR and VARCHAR2 data types?
+
+CHAR: Fixed-length. Pads with spaces.
+
+VARCHAR2: Variable-length. More efficient for varying-length data.
+
+What is a primary key?
+A unique identifier for each record in a table. Cannot contain NULL values.
+
+What is a foreign key?
+A field in one table that refers to the primary key in another table. Used to maintain referential integrity.
+
+What is the purpose of the DEFAULT constraint?
+Sets a default value for a column if no value is specified.
+
+🔹 Database Design & Normalization
+What is normalization in databases?
+The process of organizing data to reduce redundancy and improve data integrity.
+
+What is denormalization, and when is it used?
+Combining tables to improve read performance, often used in reporting or OLAP systems.
+
+🔹 SQL Queries & Functions
+What is a query in SQL?
+A request to perform operations like retrieval, insertion, or updating data in a database.
+
+What are the different operators available in SQL?
+
+Arithmetic: +, -, *, /
+
+Comparison: =, <, >, <=, >=, !=
+
+Logical: AND, OR, NOT
+
+Special: IN, BETWEEN, LIKE, IS NULL
+
+What is a view in SQL?
+A virtual table based on the result of a SQL query.
+
+🔹 Constraints & Joins
+What is the purpose of the UNIQUE constraint?
+Ensures that all values in a column are different.
+
+What are the different types of joins in SQL?
+
+INNER JOIN
+
+LEFT JOIN (or LEFT OUTER JOIN)
+
+RIGHT JOIN (or RIGHT OUTER JOIN)
+
+FULL JOIN (or FULL OUTER JOIN)
+
+CROSS JOIN
+
+SELF JOIN
+
+What is the difference between INNER JOIN and OUTER JOIN?
+
+INNER JOIN: Returns matching rows.
+
+OUTER JOIN: Returns matching + non-matching rows from one or both tables.
+
+🔹 Aggregations & Subqueries
+What is the purpose of the GROUP BY clause?
+Groups rows with the same values for aggregate functions like SUM, AVG, etc.
+
+What are aggregate functions in SQL?
+Functions that perform calculations on a set of values: SUM(), AVG(), COUNT(), MAX(), MIN().
+
+What is a subquery?
+A query nested within another SQL query.
+
+🔹 Filtering & Indexing
+What is the difference between the WHERE and HAVING clauses?
+
+WHERE: Filters rows before grouping.
+
+HAVING: Filters groups after aggregation.
+
+What are indexes, and why are they used?
+Data structures that improve query performance by speeding up data retrieval.
+
+🔹 Data Manipulation & Optimization
+What is the difference between DELETE and TRUNCATE commands?
+
+DELETE: Removes rows one by one, can use WHERE.
+
+TRUNCATE: Removes all rows quickly, cannot use WHERE.
+
+What is the purpose of the SQL ORDER BY clause?
+Sorts the result set based on one or more columns in ascending or descending order.
+
+🔹 SQL vs NoSQL
+What are the differences between SQL and NoSQL databases?
+
+SQL: Relational, structured schema, uses SQL.
+
+NoSQL: Non-relational, flexible schema, suitable for unstructured data.
+
+🔹 Database Objects & Constraints
+What is a table in SQL?
+A collection of rows and columns used to store data.
+
+What are the types of constraints in SQL?
+NOT NULL, UNIQUE, PRIMARY KEY, FOREIGN KEY, CHECK, DEFAULT
+
+What is a cursor in SQL?
+A database object used to retrieve and manipulate data row-by-row.
+
+What is a trigger in SQL?
+A set of instructions that automatically executes in response to certain events on a table.
+
+🔹 SQL Statements
+What is the purpose of the SQL SELECT statement?
+Retrieves data from a database.
+
+What are NULL values in SQL?
+Represent missing or unknown data.
+
+What is a stored procedure?
+A precompiled collection of SQL statements stored in the database and executed as a program.
+
+🔹 DDL & DML Commands
+What is the difference between DDL and DML commands?
+
+DDL: Defines structure (CREATE, ALTER, DROP)
+
+DML: Manipulates data (INSERT, UPDATE, DELETE)
+
+What is the purpose of the ALTER command in SQL?
+Modifies existing database objects like tables (add, delete, or modify columns).
+
+🔹 Advanced SQL Concepts
+What is a composite primary key?
+A primary key made of two or more columns.
+
+How is data integrity maintained in SQL databases?
+Through constraints (PRIMARY KEY, FOREIGN KEY, UNIQUE, etc.).
+
+What are the advantages of using stored procedures?
+
+Reusability
+
+Improved performance
+
+Centralized business logic
+
+Reduced client-server traffic
+
+🔹 Set Operations & Case Handling
+What is a UNION operation, and how is it used?
+Combines results of two queries, removes duplicates.
+
+What is the difference between UNION and UNION ALL?
+
+UNION: Removes duplicates.
+
+UNION ALL: Keeps duplicates.
+
+How does the CASE statement work in SQL?
+Provides if-then-else logic within SQL queries.
+
+🔹 Functions & Special Operations
+What are scalar functions in SQL?
+Functions that return a single value: UCASE(), LCASE(), NOW(), LEN(), ROUND().
+
+What is the purpose of the COALESCE function?
+Returns the first non-null value in a list of expressions.
