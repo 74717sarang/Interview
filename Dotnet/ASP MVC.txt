@@ -1,0 +1,59 @@
+🔹 1–10: Core Concepts
+What is ASP.NET MVC? How is it different from ASP.NET Web Forms?
+Explain the MVC Architecture.
+What are the advantages of using MVC?
+What are Action Methods in MVC?
+What is a ViewModel in MVC?
+What is Routing in MVC and how does it work?
+What is the difference between TempData, ViewBag, and ViewData?
+What is Razor View Engine?
+What are Partial Views and why are they used?
+Explain Convention-Based Routing vs Attribute Routing.
+
+🔹 11–20: Controllers and Views
+What is the role of a Controller in MVC?
+How do you pass data from Controller to View?
+What is HtmlHelper in MVC?
+How do you create a strongly typed view?
+What are ViewStart and ViewImports files used for?
+What is the use of Html.Partial vs Html.RenderPartial?
+What are Layout Pages in MVC?
+How do you implement Custom Helpers in MVC?
+How to use Editor Templates and Display Templates?
+What is Bundling and Minification in MVC?
+
+🔹 21–30: Models and Validation
+What is Model Binding in ASP.NET MVC?
+What is Model Validation and how do you implement it?
+What is ModelState.IsValid and how does it work?
+Explain DataAnnotations used for validation.
+What is a strongly typed model in MVC?
+How to perform server-side and client-side validation in MVC?
+How do you bind a list of objects to a view?
+What is the purpose of Hidden Fields in MVC?
+What is AntiForgeryToken and why is it important?
+How do you handle null models in MVC Views?
+
+🔹 31–40: Filters, Security, Sessions
+What are Action Filters in MVC?
+Types of filters available in MVC (Authorization, Action, Result, Exception)?
+How to create a custom Action Filter?
+How does Authentication and Authorization work in MVC?
+What are ways to secure an ASP.NET MVC application?
+What is Output Caching in MVC?
+What is the difference between Session and TempData?
+How to store user data in sessions in MVC?
+What is Forms Authentication in MVC?
+How do you implement role-based security in MVC?
+
+🔹 41–50: Advanced & Real-Time Scenarios
+What is the use of HttpGet, HttpPost, HttpPut, and HttpDelete attributes?
+How do you upload files in MVC?
+How to call a controller action from JavaScript using AJAX?
+How to return JSON from a controller action?
+How do you implement Dependency Injection in MVC?
+What is the Repository Pattern in MVC?
+Explain Unit of Work Pattern and its use in MVC.
+How to handle exceptions in MVC globally?
+Difference between RedirectToAction() and Redirect()?
+What are the best practices to follow in ASP.NET MVC development?
