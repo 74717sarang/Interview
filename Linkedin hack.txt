@@ -1,9 +1,6 @@
-https://javaconceptoftheday.com/
-
-
+search 
 talent acquisition specialist
 set   people +  Location +send message
-
 
 
 I hope you're doing well. I'm a passionate Java developer actively seeking new opportunities. I’d love to connect and stay updated on any openings that match my profile. Looking forward to learning from your posts as well!
@@ -12,10 +9,9 @@ Best regards,
 Sarang Patil
 
 
-linkedin job apply 
+linkedin job apply fastly
 
-
-in link 
+in link change
 https://www.linkedin.com/jobs/search-results/?distance=25&f_TPR=r86400&geoId
   
 change this 86400 to 3600  => to get last 1hr  recent job
