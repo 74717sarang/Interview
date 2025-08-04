@@ -1,17 +1,29 @@
-search 
+
 talent acquisition specialist
 set   people +  Location +send message
-
 
 I hope you're doing well. I'm a passionate Java developer actively seeking new opportunities. I’d love to connect and stay updated on any openings that match my profile. Looking forward to learning from your posts as well!
 
 Best regards,
 Sarang Patil
 
+Now 
+after Accept request send this 
 
-linkedin job apply fastly
+Hi [HR's Name],
+I hope you're doing well. I recently completed my PG-DAC with a focus on Full Stack Development using Java, Spring Boot, and .NET technologies. I’ve built projects using React.js, REST APIs, and MySQL, and I’m now looking for entry-level opportunities to apply these skills.
 
-in link change
+If there are any openings or recommendations, I’d be grateful to connect and hear from you.
+
+Thank you!
+Sarang Patil
+
+
+
+linkedin job apply 
+
+
+in link 
 https://www.linkedin.com/jobs/search-results/?distance=25&f_TPR=r86400&geoId
   
 change this 86400 to 3600  => to get last 1hr  recent job
